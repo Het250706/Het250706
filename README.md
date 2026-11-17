@@ -78,9 +78,3 @@ Full-stack developer who loves building fast, real-time, AI-powered web applicat
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random dev quote"/>
 </p>
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Het250706/Het250706/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-</p>

@@ -69,3 +69,18 @@ Full-stack developer who loves building fast, real-time, AI-powered web applicat
 ![Git](https://img.shields.io/badge/-GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Canva](https://img.shields.io/badge/-CANVA-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
+
+## 📊 GitHub Stats
+
+## ✍️ Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random dev quote"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Het250706/Het250706/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+</p>
